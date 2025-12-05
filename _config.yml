@@ -228,10 +228,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -283,13 +283,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+   #   path: ""
+   #   type: talks
+   # values:
+   #   layout: talk
+   #   author_profile: true
+   #   share: true
 
 
 # Sass/SCSS
@@ -359,5 +359,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
