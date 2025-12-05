@@ -23,7 +23,7 @@ repository               : "huaijinw/huaijinw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSCF2070.JPG"
+  avatar           : "DSCF2071.jpg"
   name             : "WANG Huaijin"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
@@ -359,6 +359,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
