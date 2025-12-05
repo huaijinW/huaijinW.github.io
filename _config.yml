@@ -27,7 +27,7 @@ author:
   name             : "WANG Huaijin"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
-  location         : "Earth"
+  location         : "Evry-courcouronnes, France"
   employer         : "Université d'Evry Paris Saclay"
   uri              : # URL
   email            : "huaijin.wang@univ-evry.fr" 
@@ -228,33 +228,33 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+   #   path: ""
+   #   type: posts
+   # values:
+   #   layout: single
+   #   author_profile: true
+   #   read_time: true
+   #   comments: true
+   #   share: true
+   #   related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+  #- scope:
+   #   path: ""
+   #   type: pages
+   # values:
+   #   layout: single
+   #   author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -274,14 +274,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+   #   path: ""
+   #   type: portfolio
+   # values:
+   #   layout: single
+   #   author_profile: true
+   #   share: true
+   #   comment: true
   # _talks
   #- scope:
    #   path: ""
@@ -359,6 +359,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
