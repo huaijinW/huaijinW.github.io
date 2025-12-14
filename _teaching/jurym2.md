@@ -9,13 +9,3 @@ location: "Evry-Courcouronnes, France"
 ---
 
 Acted as a defense committee member for M2 students' graduation internship.
-
-#Heading 1
-#======
-
-#Heading 2
-#======
-
-#Heading 3
-#======
-
