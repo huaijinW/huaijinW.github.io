@@ -15,3 +15,4 @@ My research
 ======
 Nowadays, the prediction of air pollution concentration with a known source, as a direct problem in environmental science domain, has already been well developped with the Machine learning, even the Deep learning technique. But, the inverse problem, to identify the source position of the air pollutant, is always weakly positioned.
 Thanks to Doctor Sidi-Mohammed Alaoui, whose research is about to optimize the sensor network in an atmospherical experiment campaign, I pursue to develop a **Active Deep learning** method to find out the unknown source position.
+The air dispersion models, ex. Gaussian dispersion model, are also interesting to my research.
