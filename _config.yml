@@ -29,7 +29,7 @@ author:
   bio              : "PhD student"
   location         : "Evry-courcouronnes, France"
   employer         : "Université d'Evry Paris Saclay"
-  uri              : # URL
+  uri              : "https://huaijinw.github.io/"
   email            : "huaijin.wang@univ-evry.fr" 
 
   # Academic websites
@@ -359,6 +359,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
