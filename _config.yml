@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "WANG Huaijin               "
+title                    : "Home Page               "
 title_separator          : "-"
 name                     : &name "WANG Huaijin"
 description              : &description "WANG Huaijin's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -359,6 +359,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
